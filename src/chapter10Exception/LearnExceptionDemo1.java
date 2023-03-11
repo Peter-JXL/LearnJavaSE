@@ -1,3 +1,4 @@
+package chapter10Exception;
 public class LearnExceptionDemo1 {
   public static void main(String[] args) {
     Person p = new Student();

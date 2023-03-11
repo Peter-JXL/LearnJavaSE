@@ -1,3 +1,4 @@
+package chapter10Exception;
 public class LearnExceptionDemo5 {
   public static void main(String[] args) throws Exception{
     Exception origin = null;

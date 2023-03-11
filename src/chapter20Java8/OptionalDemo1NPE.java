@@ -1,8 +1,8 @@
 package chapter20Java8;
 
-public class LearnOptionalDemo1NPE {
+public class OptionalDemo1NPE {
   public static void main(String[] args) {
     String s = null;
-    s.equals("hello");
+    s.equals("hello");  // throw NPE
   }
 }

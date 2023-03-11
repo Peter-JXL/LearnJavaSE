@@ -1,4 +1,4 @@
-package chapter9;
+package chapter10Exception;
 
 public class LearnExceptionDemo4 {
   public static void main(String[] args) {
