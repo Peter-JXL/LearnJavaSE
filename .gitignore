@@ -3,5 +3,6 @@
 out
 # 过滤敏感的配置文件
 src/chapter20/mail.properties
+src/chapter20/mail2.properties
 # 忽略配置文件
 LearnJavaSETest.iml
