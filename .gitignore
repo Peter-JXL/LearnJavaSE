@@ -1,6 +1,7 @@
 # 忽略idea文件夹
 .idea
 out
-
+# 过滤敏感的配置文件
+src/chapter20/mail.properties
 # 忽略配置文件
 LearnJavaSETest.iml
